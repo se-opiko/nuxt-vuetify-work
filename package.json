@@ -20,6 +20,7 @@
     "eslint-plugin-vue": "^9.19.2",
     "nuxt": "^3.8.2",
     "prettier": "^3.1.1",
+    "tabulator-tables": "^5.5.2",
     "typescript": "^5.3.3",
     "vite-plugin-vuetify": "^2.0.1",
     "vuetify": "^3.4.7"
